@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshots
 
-***Desktop Layout*** (1440 X 900)\
+
 ![](./screenshots/desktop/home-desktop.png)
 ![](./screenshots/desktop/destination-desktop.png)
 ![](./screenshots/desktop/crew-desktop.png)
