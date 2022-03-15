@@ -31,17 +31,6 @@ Users should be able to:
 ![](./screenshots/desktop/crew-desktop.png)
 ![](./screenshots/desktop/technology-desktop.png)
 
-***Tablet Layout*** (768 x 1024)\
-![](./screenshots/tablet/home-tablet.png)
-![](./screenshots/tablet/destination-tablet.png)
-![](./screenshots/tablet/crew-tablet.png)
-![](./screenshots/tablet/technology-tablet.png)
-
-***Mobile Layout*** (375 x 667) \
-![](./screenshots/mobile/home-mobile.png)
-![](./screenshots/mobile/destination-mobile.png)
-![](./screenshots/mobile/crew-mobile.png)
-![](./screenshots/mobile/technology-mobile.png)
 
 ### Links
 
